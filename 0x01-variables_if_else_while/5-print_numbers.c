@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - print single numbers
+ * main - prints one to nine.
  *
- * Return; always 0
+ * Return: always 0
  */
 int main(void)
 {
