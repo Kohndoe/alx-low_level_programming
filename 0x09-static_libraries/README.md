@@ -1,0 +1,1 @@
+My own static Library
